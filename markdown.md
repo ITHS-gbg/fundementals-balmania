@@ -1,10 +1,9 @@
 # Det här har jag lärt mig
 
-Jag har lärt mig hur man använder git och github. 
-Numera ved jag vad **repositories**, **cloning** och **commit/push** betyder.
+Jag har lärt mig hur man använder git och github. Numera ved jag vad **repositories**, **cloning** och **commit/push** betyder.
 
 ## Repositories, cloning och commit/push
-En **repository** är en i sin enkelhet bara en mapp som ligger centralt (*remote*) på en dator någonstans och som andra kan komma åt över internet.
+<p> En **repository** är en i sin enkelhet bara en mapp som ligger centralt (*remote*) på en dator någonstans och som andra kan komma åt över internet. </p>
 **Cloning** är när man skapar en kopia av den här mappen lokalt på din egna dator.
 **Commit/push** är olika sätt att ladda upp de ändringar som du gjort lokalt till den centrala mappen.
 
